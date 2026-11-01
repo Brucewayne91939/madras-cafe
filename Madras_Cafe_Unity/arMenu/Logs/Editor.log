@@ -1,0 +1,1649 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.5/staging' branch; Version is '6000.5.9f1 (b57deb96f08d) revision 11894251'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) CoreSingleLanguage' Language: 'en' Physical Memory: 7929 MB
+BatchMode: 0, IsHumanControllingUs: 1, StartBugReporterOnCrash: 1, Is64bit: 1
+System  architecture: x64
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ajith" at "2026-09-07T22:06:13.3688624Z"
+Process architecture: x64
+Date: 2026-09-07T22:06:13Z
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 13444, path: "C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Resources/Licensing/Client/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              ecff8cb8c9534e1ebfa91f1477320197
+  Correlation Id:          bde7440f018568849b89e6d1bf9f8675
+  External correlation Id: 7076277963780097219
+  Machine Id:              GWS+EtgHieo5w369+5kmYvVOCvU=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-ajith" (connect: 0.00s, validation: 0.02s, handshake: 0.11s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ajith-notifications" at "2026-09-07T22:06:13.4989858Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 13469717682273-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.01
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.17s
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.5.9f1\Editor\Unity.exe
+-openfile
+C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Assets\MenuDemo.unity
+Opening project via file: C:/Users/ajith/Desktop/AR-Menu3D-main/ARMenuUnity/arMenu/Assets/MenuDemo.unity
+C:/Users/ajith/Desktop/AR-Menu3D-main/ARMenuUnity/arMenu
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=0"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [20508]  Target information:
+
+Player connection [20508]  * "[IP] 192.168.1.8 [Port] 55504 [Flags] 2 [Guid] 3685272554 [EditorId] 3685272554 [Version] 1048832 [Id] WindowsEditor(7,AJITHKUMAR) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [20508] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [20508] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Package Manager] Connected to IPC stream "Upm-21396" after 0.5 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/InputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TagManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/AudioManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TimeManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/DynamicsManager.asset"
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/QualitySettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorBuildSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/NavMeshAreas.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/Physics2DSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/GraphicsSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/UnityConnectSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/ClusterInputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/MonoManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/InspectorExpandedItems.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/AnnotationManager"
+Active build profile path: `Assets/Settings/Build Profiles/Android™.asset`
+Artifact Garbage Collection - Removed 2 unused hashed content files
+[Licensing::Client] Successfully resolved entitlement details
+Got setting from build profile YAML, name `m_BuildTarget`, value `13`
+Got setting from build profile YAML, name `m_Subtarget`, value `0`
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforia' (found at 'Assets/Plugins/WSA/x64/Vuforia.dll' and 'Assets/Plugins/WSA/x86/Vuforia.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll' and 'Assets/Plugins/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Refreshing native plugins compatible for Editor in 94.62 ms, found 2 plugins.
+Initialize engine version: 6000.5.9f1 (b57deb96f08d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ajith/Desktop/AR-Menu3D-main/ARMenuUnity/arMenu/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x8a56)
+    Vendor:   Intel
+    VRAM:     3964 MB
+    Driver:   30.0.100.9805
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56396
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.009611 seconds.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.437 seconds
+Domain Reload Profiling: 2586ms
+	BeginReloadAssembly (241ms)
+		CreateAndSetChildDomain (5ms)
+	RebuildCommonClasses (11ms)
+	RebuildNativeTypeToScriptingClass (46ms)
+	initialDomainReloadingComplete (164ms)
+	LoadAllAssembliesAndSetupDomain (683ms)
+		LoadAssemblies (233ms)
+		AnalyzeDomain (518ms)
+			TypeCache.Refresh (516ms)
+				TypeCache.ScanAssembly (486ms)
+	FinalizeReload (1440ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (171ms)
+			BeforeProcessingInitializeOnLoad (200ms)
+			ProcessInitializeOnLoadAttributes (186ms)
+			ProcessInitializeOnLoadMethodAttributes (754ms)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Done resolving packages in 0.89 seconds
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 37 packages:
+  Built-in packages:
+    com.unity.multiplayer.center@1.0.1 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.multiplayer.center@b860850997d0)
+    com.unity.modules.accessibility@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.terrainphysics)
+    com.unity.modules.tilemap@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.tilemap)
+    com.unity.modules.ui@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\Library\PackageCache\com.unity.modules.hierarchycore)
+[Subsystems] No new subsystems found in resolved package list.
+[Package Manager] Done registering packages in 0.00 seconds
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/InputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TagManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/AudioManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TimeManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/DynamicsManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/QualitySettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorBuildSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/NavMeshAreas.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/Physics2DSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/GraphicsSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/UnityConnectSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/ClusterInputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/MonoManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/InspectorExpandedItems.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/AnnotationManager"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/QualitySettings.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditorInternal.InternalEditorUtility:LoadSerializedFileAndForget (string)
+UnityEditor.Shaders.RenderPipelineSubShaderStripping:InspectPersistentSettings (string,bool,System.Func`2<UnityEngine.Object[], bool>)
+UnityEditor.Shaders.RenderPipelineSubShaderStripping:AnyPersistentPerQualityRenderPipelineUnresolved ()
+UnityEditor.Shaders.RenderPipelineSubShaderStripping:GetActiveRenderPipelineShaderTagsForPlatform (string)
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/GraphicsSettings.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditorInternal.InternalEditorUtility:LoadSerializedFileAndForget (string)
+UnityEditor.Shaders.RenderPipelineSubShaderStripping:InspectPersistentSettings (string,bool,System.Func`2<UnityEngine.Object[], bool>)
+UnityEditor.Shaders.RenderPipelineSubShaderStripping:TryAddPersistentDefaultRenderPipelineTag (System.Collections.Generic.HashSet`1<string>)
+UnityEditor.Shaders.RenderPipelineSubShaderStripping:GetActiveRenderPipelineShaderTagsForPlatform (string)
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Starting: C:\Program Files\Unity\Hub\Editor\6000.5.9f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/ajith/Desktop/AR-Menu3D-main/ARMenuUnity/arMenu
+ExitCode: 4 Duration: 4s397ms
+Rebuilding DAG because FileSignature timestamp changed: Library/Bee/1300b0aE-inputdata.json
+*** Tundra requires additional run (4.17 seconds), 1 items updated, 185 evaluated
+Unhandled exception during build: System.IO.DirectoryNotFoundException: Could not find a part of the path "C:\Users\ajith\Downloads\ARMenu-master\ARMenu-master\ARMenuUnity\arMenu\Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor.dll.mvfrm".
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x00164] in <816f70bc2a9c4332b0bd119906a8d40e>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.IO.FileOptions options) [0x00000] in <816f70bc2a9c4332b0bd119906a8d40e>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,int,System.IO.FileOptions)
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding, System.Boolean detectEncodingFromByteOrderMarks, System.Int32 bufferSize) [0x00055] in <816f70bc2a9c4332b0bd119906a8d40e>:0 
+  at System.IO.StreamReader..ctor (System.String path, System.Text.Encoding encoding) [0x00000] in <816f70bc2a9c4332b0bd119906a8d40e>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.StreamReader..ctor(string,System.Text.Encoding)
+  at System.IO.File.InternalReadAllLines (System.String path, System.Text.Encoding encoding) [0x00006] in <816f70bc2a9c4332b0bd119906a8d40e>:0 
+  at System.IO.File.ReadAllLines (System.String path) [0x0002c] in <816f70bc2a9c4332b0bd119906a8d40e>:0 
+  at NiceIO.NPath+SystemIOFileSystem.File_ReadAllLines (NiceIO.NPath path) [0x00007] in <f61864b98d514a7796d400c6975fc870>:0 
+  at NiceIO.NPath+WindowsFileSystem.File_ReadAllLines (NiceIO.NPath path) [0x00012] in <f61864b98d514a7796d400c6975fc870>:0 
+  at NiceIO.NPath.ReadAllLines () [0x00005] in <f61864b98d514a7796d400c6975fc870>:0 
+  at UnityEditor.Scripting.ScriptCompilation.PotentiallyUpdatableErrorMessages.IsAnyPotentiallyUpdatable (UnityEditor.Scripting.Compilers.CompilerMessage[] messages, Bee.BinLog.NodeFinishedMessage nodeResult, Bee.Serialization.ObjectsFromDisk dataFromBuildProgram) [0x00099] in <f61864b98d514a7796d400c6975fc870>:0 
+  at UnityEditor.Scripting.ScriptCompilation.UnityScriptUpdater.ContainsUpdatableCompilerMessage (Bee.BinLog.NodeFinishedMessage nodeResult, Bee.Serialization.ObjectsFromDisk dataFromBuildProgram) [0x0007b] in <f61864b98d514a7796d400c6975fc870>:0 
+  at UnityEditor.Scripting.ScriptCompilation.UnityScriptUpdater.StartIfYouCanFixProblemsInTheseMessages (Bee.BinLog.NodeFinishedMessage& nodeResult, Bee.Serialization.ObjectsFromDisk dataFromBuildProgram, System.Threading.CancellationToken cancellationToken) [0x00007] in <f61864b98d514a7796d400c6975fc870>:0 
+  at Bee.BeeDriver.BeeDriver+<>c__DisplayClass3_3.<EntryPoint>b__4 () [0x00045] in <10a9e2c8ac564a98ac10e5fe670d734f>:0 
+  at System.Threading.Tasks.Task`1[TResult].InnerInvoke () [0x0000f] in <816f70bc2a9c4332b0bd119906a8d40e>:0 
+  at System.Threading.Tasks.Task.Execute () [0x00000] in <816f70bc2a9c4332b0bd119906a8d40e>:0 
+--- End of stack trace from previous location where exception was thrown ---
+
+  at Bee.BeeDriver.BeeDriver.EntryPoint (Bee.BeeDriver.InternalState state) [0x0025d] in <10a9e2c8ac564a98ac10e5fe670d734f>:0 
+  at Bee.BeeDriver.BeeDriver+<>c__DisplayClass0_0.<BuildAsync>b__1 () [0x00074] in <10a9e2c8ac564a98ac10e5fe670d734f>:0 
+  at Bee.BeeDriver.BeeDriver.AwaitAndCatchExceptions (System.Func`1[TResult] action) [0x00070] in <10a9e2c8ac564a98ac10e5fe670d734f>:0 
+AssetDatabase: script compilation time: 6.291611s
+Total cache size 268330332
+Total cache size after purge 268330332, took 00:00:01.9576543
+[ScriptCompilation] Requested script compilation because: Exiting safe mode
+Starting: C:\Program Files\Unity\Hub\Editor\6000.5.9f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/ajith/Desktop/AR-Menu3D-main/ARMenuUnity/arMenu
+ExitCode: 4 Duration: 0s78ms
+Rebuilding DAG because FileSignature timestamp changed: Library/Bee/1300b0aE-inputdata.json
+*** Tundra requires additional run (0.03 seconds), 0 items updated, 35 evaluated
+Starting: C:\Program Files\Unity\Hub\Editor\6000.5.9f1\Editor\Data\netcorerun\netcorerun.exe "C:\Program Files\Unity\Hub\Editor\6000.5.9f1\Editor\Data\Tools\BuildPipeline\ScriptCompilationBuildProgram.exe" "Library/Bee/1300b0aE.dag.json" "Library/Bee/1300b0aE-inputdata.json" "Library\Bee\buildprogram0.traceevents"
+WorkingDir: C:/Users/ajith/Desktop/AR-Menu3D-main/ARMenuUnity/arMenu
+ExitCode: 0 Duration: 0s923ms
+Starting: C:\Program Files\Unity\Hub\Editor\6000.5.9f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1300b0aE.dag" --continue-on-failure --dagfilejson="Library\Bee\1300b0aE.dag.json" --profile="Library/Bee/backend2.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/ajith/Desktop/AR-Menu3D-main/ARMenuUnity/arMenu
+## Script Compilation Error for: Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+## CmdLine: "C:\Program Files\Unity\Hub\Editor\6000.5.9f1\Editor\Data\DotNetSdk\dotnet.exe" exec "C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/DotNetSdk/sdk/8.0.318/Roslyn/bincore/csc.dll" /nostdlib /noconfig /shared "@Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.rsp" "@Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.rsp2"
+## Output:
+Assets\Vuforia\Editor\Scripts\Unzipper\SharpZipLibUnzipper.cs(29,20): error CS0103: The name 'Unzip' does not exist in the current context
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(72,37): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(93,68): warning CS0618: 'GraphicsDeviceType.OpenGLES2' is obsolete: 'OpenGL ES 2.0 is no longer supported in Unity 2023.1'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(97,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(101,33): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(123,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(138,33): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(143,17): warning CS0618: 'EditorUserBuildSettings.wsaSDK' is obsolete: 'EditorUserBuildSettings.wsaSDK is obsolete and has no effect.It will be removed in a subsequent Unity release.'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(155,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+
+Assets\Vuforia\Editor\Scripts\Unzipper\SharpZipLibUnzipper.cs(29,20): error CS0103: The name 'Unzip' does not exist in the current context
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(72,37): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(93,68): warning CS0618: 'GraphicsDeviceType.OpenGLES2' is obsolete: 'OpenGL ES 2.0 is no longer supported in Unity 2023.1'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(97,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(101,33): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(123,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(138,33): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(143,17): warning CS0618: 'EditorUserBuildSettings.wsaSDK' is obsolete: 'EditorUserBuildSettings.wsaSDK is obsolete and has no effect.It will be removed in a subsequent Unity release.'
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(155,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+ExitCode: 3 Duration: 0s759ms
+Finished compiling graph: 192 nodes, 1032 flattened edges (1000 ToBuild, 8 ToUse), maximum node priority 46
+[ 19/189    0s] WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Common.UnityAdditionalFile.txt
+[ 87/189    0s] WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Common.rsp2
+[159/189    0s] WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Editor.UnityAdditionalFile.txt
+[161/189    0s] WriteText Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Editor.rsp2
+[168/189    0s] WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.UnityAdditionalFile.txt
+[169/189    0s] WriteText Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.UnityAdditionalFile.txt
+[180/189    0s] CopyFiles Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.dll
+[181/189    0s] CopyFiles Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.pdb
+[182/189    0s] CopyFiles Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.pdb
+[183/189    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb
+[184/189    0s] CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll
+[185/189    0s] CopyFiles Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.dll
+[186/189    0s] Csc Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll (+2 others)
+##### CommandLine
+"C:\Program Files\Unity\Hub\Editor\6000.5.9f1\Editor\Data\DotNetSdk\dotnet.exe" exec "C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/DotNetSdk/sdk/8.0.318/Roslyn/bincore/csc.dll" /nostdlib /noconfig /shared "@Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.rsp" "@Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.rsp2"
+##### Contents of Library\Bee\artifacts\1300b0aE.dag\Assembly-CSharp-Editor.rsp
+-target:library
+-out:"Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.dll"
+-refout:"Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.ref.dll"
+-define:UNITY_6000_5_9
+-define:UNITY_6000_5
+-define:UNITY_6000
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_2017_1_OR_NEWER
+-define:UNITY_2017_2_OR_NEWER
+-define:UNITY_2017_3_OR_NEWER
+-define:UNITY_2017_4_OR_NEWER
+-define:UNITY_2018_1_OR_NEWER
+-define:UNITY_2018_2_OR_NEWER
+-define:UNITY_2018_3_OR_NEWER
+-define:UNITY_2018_4_OR_NEWER
+-define:UNITY_2019_1_OR_NEWER
+-define:UNITY_2019_2_OR_NEWER
+-define:UNITY_2019_3_OR_NEWER
+-define:UNITY_2019_4_OR_NEWER
+-define:UNITY_2020_1_OR_NEWER
+-define:UNITY_2020_2_OR_NEWER
+-define:UNITY_2020_3_OR_NEWER
+-define:UNITY_2021_1_OR_NEWER
+-define:UNITY_2021_2_OR_NEWER
+-define:UNITY_2021_3_OR_NEWER
+-define:UNITY_2022_1_OR_NEWER
+-define:UNITY_2022_2_OR_NEWER
+-define:UNITY_2022_3_OR_NEWER
+-define:UNITY_2023_1_OR_NEWER
+-define:UNITY_2023_2_OR_NEWER
+-define:UNITY_2023_3_OR_NEWER
+-define:UNITY_6000_0_OR_NEWER
+-define:UNITY_6000_1_OR_NEWER
+-define:UNITY_6000_2_OR_NEWER
+-define:UNITY_6000_3_OR_NEWER
+-define:UNITY_6000_4_OR_NEWER
+-define:UNITY_6000_5_OR_NEWER
+-define:UNITY_INCLUDE_TESTS
+-define:ENABLE_AR
+-define:ENABLE_AUDIO
+-define:ENABLE_AUDIO_SCRIPTABLE_PIPELINE
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_TEXTURE_STREAMING
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
+-define:ENABLE_UNITY_CONSENT
+-define:ENABLE_UNITY_CLOUD_IDENTIFIERS
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_EDITOR_GAME_SERVICES
+-define:ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_HUB_LICENSE
+-define:ENABLE_WEBSOCKET_CLIENT
+-define:ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API
+-define:ENABLE_DIRECTOR_AUDIO
+-define:ENABLE_DIRECTOR_TEXTURE
+-define:ENABLE_MANAGED_JOBS
+-define:ENABLE_MANAGED_TRANSFORM_JOBS
+-define:ENABLE_MANAGED_ANIMATION_JOBS
+-define:ENABLE_MANAGED_AUDIO_JOBS
+-define:ENABLE_ENGINE_CODE_STRIPPING
+-define:ENABLE_ONSCREEN_KEYBOARD
+-define:ENABLE_MANAGED_UNITYTLS
+-define:INCLUDE_DYNAMIC_GI
+-define:ENABLE_SCRIPTING_GC_WBARRIERS
+-define:PLATFORM_SUPPORTS_MONO
+-define:ENABLE_MARSHALLING_TESTS
+-define:ENABLE_VIDEO
+-define:ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK
+-define:ENABLE_ACCELERATOR_CLIENT_DEBUGGING
+-define:ENABLE_ACCESSIBILITY_SCREEN_READER
+-define:ENABLE_ACCESSIBILITY_SETTINGS
+-define:TEXTCORE_1_0_OR_NEWER
+-define:EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED
+-define:PLATFORM_ANDROID
+-define:UNITY_ANDROID
+-define:UNITY_ANDROID_API
+-define:ENABLE_EGL
+-define:ENABLE_NETWORK
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_CLOUD_SERVICES_ENGINE_DIAGNOSTICS
+-define:ENABLE_FIREBASE_IDENTIFIERS
+-define:UNITY_CAN_SHOW_SPLASH_SCREEN
+-define:UNITY_HAS_GOOGLEVR
+-define:UNITY_HAS_TANGO
+-define:ENABLE_SPATIALTRACKING
+-define:ENABLE_ETC_COMPRESSION
+-define:PLATFORM_EXTENDS_VULKAN_DEVICE
+-define:PLATFORM_HAS_MULTIPLE_SWAPCHAINS
+-define:UNITY_ANDROID_SUPPORTS_SHADOWFILES
+-define:PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP
+-define:PLATFORM_EXTENDS_VULKAN_PIPELINE_CACHE
+-define:PLATFORM_SUPPORTS_SPLIT_GRAPHICS_JOBS
+-define:PLATFORM_HAS_ADDITIONAL_API_CHECKS
+-define:PLATFORM_HAS_GRAPHICS_JOBS_SUPPORT_CHECK_OVERRIDE
+-define:PLATFORM_IMPLEMENTS_INSIGHTS_ANR
+-define:PLATFORM_SUPPORTS_INSIGHTS_DEVICE_INFO
+-define:ENABLE_ANDROID_ADVERTISING_IDS
+-define:PLATFORM_HAS_BUGGY_MSAA_RESOLVE
+-define:ENABLE_ANDROID_APP_SET_ID
+-define:ENABLE_INSIGHTS_PLATFORM_SPECIFIC_RESOURCES
+-define:PLATFORM_REQUIRES_TETHERED_VULKAN_COMMAND_POOL
+-define:ENABLE_UNITYADS_RUNTIME
+-define:UNITY_UNITYADS_API
+-define:ENABLE_MONO
+-define:NET_4_6
+-define:NET_UNITY_4_8
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_UNITY_COLLECTIONS_CHECKS
+-define:ENABLE_BURST_AOT
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_CUSTOM_RENDER_TEXTURE
+-define:ENABLE_DIRECTOR
+-define:ENABLE_LOCALIZATION
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_TILEMAP
+-define:ENABLE_TIMELINE
+-define:ENABLE_LEGACY_INPUT_MANAGER
+-define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
+-define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
+-define:TEXTCORE_FONT_ENGINE_1_6_OR_NEWER
+-define:VUFORIA_ANDROID_SETTINGS
+-define:CSHARP_7_OR_LATER
+-define:CSHARP_7_3_OR_NEWER
+-define:UNITY_EDITOR_ONLY_COMPILATION
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/Microsoft.Bcl.AsyncInterfaces.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/Microsoft.Extensions.Logging.Abstractions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Collections.Immutable.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Diagnostics.DiagnosticSource.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.IO.Hashing.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Reflection.Metadata.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Runtime.CompilerServices.Unsafe.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Text.Encodings.Web.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/ref/System.Text.Json.dll"
+-r:"Assets/Vuforia/Editor/Scripts/Vuforia.UnityExtensions.Editor.dll"
+-r:"Assets/Vuforia/Scripts/Internal/Vuforia.UnityExtensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/Unity.Scripting.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.AIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.AccessibilityModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.AdaptivePerformanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.AssetComplianceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.BuildProfileModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.ClothModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.ContentLoadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreBusinessMetricsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.EditorToolbarModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.EmbreeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.GIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.GenericRemoteModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphToolkitModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphViewModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.GraphicsStateCollectionSerializerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.GridAndSnapModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.GridModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.HierarchyModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.LightingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.MathematicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.MediaModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.MultiplayerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.Physics2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.PhysicsCore2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.PhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.PlayModeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.PresetsUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.ProjectAuditorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.PropertiesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickInstallModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.QuickSearchModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.SafeModeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneViewModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.ShaderBuildSettingsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.ShaderCompilationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.ShaderFoundryModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.SketchUpModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.SpriteMaskModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.SpriteShapeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.SubstanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.TerrainModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.TextRenderingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.TilemapModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.TreeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.U2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIAutomationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIBuilderModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIToolkitAuthoringModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.UmbraModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.VFXModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.VectorGraphicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.VideoModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.XRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEditor.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AMDModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AdaptivePerformanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AndroidJNIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.ContentLoadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.DSPGraphModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.GIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.GraphicsStateCollectionSerializerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.HierarchyCoreModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.HierarchyModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.HotReloadModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.IdentifiersModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputForUIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputLegacyModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.InsightsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.MarshallingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.MathematicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.MultiplayerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsBackendPhysXModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsCore2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.PropertiesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.RenderAs2DModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.ScriptingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.ShaderVariantAnalyticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.StreamingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubstanceModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.SubsystemsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.TLSModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreFontEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextCoreTextEngineModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.U2DRuntimeModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UmbraModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsCommonModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConsentModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityCurlModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.VFXModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.VectorGraphicsModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.VirtualTexturingModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/Microsoft.Win32.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.AppContext.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Buffers.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.Concurrent.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.NonGeneric.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.Specialized.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Collections.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.Annotations.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.EventBasedAsync.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.TypeConverter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ComponentModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Console.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Data.Common.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Contracts.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Debug.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.FileVersionInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Process.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.StackTrace.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.TextWriterTraceListener.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.Tools.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Diagnostics.TraceSource.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Drawing.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Dynamic.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.Calendars.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Globalization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.Compression.ZipFile.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.DriveInfo.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.Watcher.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.IsolatedStorage.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.MemoryMappedFiles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.Pipes.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.UnmanagedMemoryStream.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.IO.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Expressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.Queryable.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Linq.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Memory.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Http.Rtc.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.NameResolution.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.NetworkInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Ping.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Requests.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Security.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.Sockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebHeaderCollection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebSockets.Client.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Net.WebSockets.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ObjectModel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.DispatchProxy.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.ILGeneration.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.Lightweight.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Emit.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Reflection.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.Reader.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.ResourceManager.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Resources.Writer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.CompilerServices.VisualC.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Handles.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.RuntimeInformation.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.WindowsRuntime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.InteropServices.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Formatters.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Json.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.Serialization.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Runtime.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Claims.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Algorithms.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Csp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Cryptography.X509Certificates.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.Principal.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Security.SecureString.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Duplex.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Http.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.NetTcp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Primitives.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ServiceModel.Security.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.Encoding.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.Encoding.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Text.RegularExpressions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Overlapped.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.Extensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.Parallel.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Tasks.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Thread.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.ThreadPool.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.Timer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Threading.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.ValueTuple.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.ReaderWriter.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XPath.XDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XPath.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XmlDocument.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/System.Xml.XmlSerializer.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Microsoft.CSharp.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.ComponentModel.Composition.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Core.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Data.DataSetExtensions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Data.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Drawing.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.IO.Compression.FileSystem.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.IO.Compression.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Net.Http.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Numerics.Vectors.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Numerics.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Runtime.Serialization.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.dll"
+-r:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/mscorlib.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Common.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Multiplayer.Center.Editor.ref.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/analyzers/dotnet/roslyn4.0/cs/Microsoft.Extensions.Logging.Generators.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/BCLExtensions/TargetingPacks/netstandard2.1/analyzers/dotnet/roslyn4.0/cs/System.Text.Json.SourceGeneration.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Tools/BuildPipeline/Unity.Analyzers.Common/Unity.Analyzers.Common.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Tools/BuildPipeline/Unity.Analyzers.LongLiving/Unity.Analyzers.LongLiving.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+-analyzer:"C:/Program Files/Unity/Hub/Editor/6000.5.9f1/Editor/Data/Tools/BuildPipeline/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Vuforia/Editor/Scripts/ComponentFactoryStarter/ComponentFactoryStarter.cs"
+"Assets/Vuforia/Editor/Scripts/ExtensionImport.cs"
+"Assets/Vuforia/Editor/Scripts/PostProcessBuildPlayer.cs"
+"Assets/Vuforia/Editor/Scripts/Unzipper/SharpZipLibUnzipper.cs"
+"Assets/Vuforia/Editor/Scripts/VuforiaConfigurationEditor.cs"
+-langversion:9.0
+/deterministic
+/optimize+
+/debug:portable
+/nologo
+/RuntimeMetadataVersion:v4.0.30319
+/nowarn:0169
+/nowarn:0649
+/nowarn:0282
+/nowarn:1701
+/nowarn:1702
+/utf8output
+/preferreduilang:en-US
+/additionalfile:"Library/Bee/artifacts/1300b0aE.dag/Assembly-CSharp-Editor.UnityAdditionalFile.txt"
+##### Custom Environment Variables
+DOTNET_HOST_PATH=C:\Program Files\Unity\Hub\Editor\6000.5.9f1\Editor\Data\DotNetSdk\dotnet.exe
+DOTNET_MULTILEVEL_LOOKUP=0
+##### ExitCode
+1
+##### Output
+Assets\Vuforia\Editor\Scripts\Unzipper\SharpZipLibUnzipper.cs(29,20): error CS0103: The name 'Unzip' does not exist in the current context
+
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(72,37): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(93,68): warning CS0618: 'GraphicsDeviceType.OpenGLES2' is obsolete: 'OpenGL ES 2.0 is no longer supported in Unity 2023.1'
+
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(97,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(101,33): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(123,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(138,33): warning CS0618: 'PlayerSettings.GetScriptingDefineSymbolsForGroup(BuildTargetGroup)' is obsolete: 'Use GetScriptingDefineSymbols(NamedBuildTarget buildTarget) instead'
+
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(143,17): warning CS0618: 'EditorUserBuildSettings.wsaSDK' is obsolete: 'EditorUserBuildSettings.wsaSDK is obsolete and has no effect.It will be removed in a subsequent Unity release.'
+
+Assets\Vuforia\Editor\Scripts\ExtensionImport.cs(155,17): warning CS0618: 'PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup, string)' is obsolete: 'Use SetScriptingDefineSymbols(NamedBuildTarget buildTarget, string defines) instead'
+*** Tundra build failed (0.64 seconds), 13 items updated, 189 evaluated
+Begin MonoManager ReloadAssembly
+OnLevelWasLoaded was found on VuforiaBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+OnLevelWasLoaded was found on VuforiaAbstractBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforia' (found at 'Assets/Plugins/WSA/x64/Vuforia.dll' and 'Assets/Plugins/WSA/x86/Vuforia.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll' and 'Assets/Plugins/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Refreshing native plugins compatible for Editor in 16.45 ms, found 2 plugins.
+OnLevelWasLoaded was found on VuforiaBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+OnLevelWasLoaded was found on VuforiaAbstractBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.240 seconds
+Domain Reload Profiling: 2835ms
+	BeginReloadAssembly (761ms)
+		DisableScriptedObjects (78ms)
+		CreateAndSetChildDomain (226ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (50ms)
+	initialDomainReloadingComplete (133ms)
+	LoadAllAssembliesAndSetupDomain (623ms)
+		LoadAssemblies (639ms)
+		AnalyzeDomain (49ms)
+			TypeCache.Refresh (39ms)
+				TypeCache.ScanAssembly (26ms)
+			BuildScriptInfoCaches (7ms)
+	FinalizeReload (1244ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (40ms)
+			BeforeProcessingInitializeOnLoad (231ms)
+			ProcessInitializeOnLoadAttributes (226ms)
+			ProcessInitializeOnLoadMethodAttributes (215ms)
+			AfterProcessingInitializeOnLoad (20ms)
+		AwakeInstancesAfterBackupRestoration (84ms)
+Starting new worker id: 0 with log in C:/Users/ajith/Desktop/AR-Menu3D-main/ARMenuUnity/arMenu/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=b870686fbfc81454f9227d06d0973795): Total: 18.791 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=7802 ms
+		Asset DB Callback time: managed=60 ms, native=942 ms
+		Scripting: domain reloads=1, domain reload time=3669 ms, compile time=6296 ms, other=19 ms
+		Project Asset Count: scripts=216, non-scripts=308
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 951.241ms
+	ApplyChangesToAssetFolders: 1.315ms
+	Scan: 99.085ms
+	Collect global state as custom dependencies: 25.642ms
+	CategorizeScriptCompilationAssets: 4.415ms
+	ProcessAssetsWithTransientArtifactChanges: 14.795ms
+	CategorizeAssets: 20.709ms
+	CompileScripts: 6296.368ms
+	ImportOutOfDateAssets: 1321.950ms (1285.718ms without children)
+		UnloadImportedAssets: 0.425ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.188ms
+		ImportSchedulerStart: 35.595ms
+	PostProcessAllAssets: 60.916ms
+		MonoPostProcessAllAssets: 60.815ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 26.508ms
+			SyncVS.PostprocessSyncProject 5.194ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 2.406ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 2.156ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.825ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.576ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.517ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 0.277ms
+	UnloadStreamsBegin: 3.143ms
+	GenerateScriptTypeHashes: 5.730ms
+	GenerateScriptTypeSerializationHashes: 14.455ms
+	Untracked: 9976.681ms
+
+Application.AssetDatabase Initial Refresh End
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Scanning for USB devices : 5.423ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-ARMenu
+Worker ready: AssetImportWorkerHW0 0
+Opening scene 'Assets/MenuDemo.unity'
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Assets/MenuDemo.unity"
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/MenuDemo.unity'
+	Deserialize:            54.149 ms
+	Integration:            932.131 ms
+	Integration of assets:  0.417 ms
+	Thread Wait Time:       -0.387 ms
+	Total Operation Time:   986.310 ms
+Unloading 152 unused Assets / (488.3 KB). Loaded Objects now: 1134.
+Memory consumption went from 219.0 MB to 218.5 MB.
+Total: 10.827000 ms (FindLiveObjects: 0.248400 ms CreateObjectMapping: 0.057700 ms MarkObjects: 9.506500 ms  DeleteObjects: 0.638700 ms)
+
+[LAYOUT] About to load UserSettings\Layouts\default-6000.dwlt, keepMainWindow=False
+[LAYOUT] About to save layout C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/ajith/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+This project uses Input Manager, which is marked for deprecation. To manage input in your project, use the <a href="https://docs.unity3d.com/Packages/com.unity.inputsystem@latest">Input System package</a> instead.
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+[Project] Loading completed in 39.781 seconds
+	Project init time: 				27.017 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.455 seconds
+		Asset Database init time: 		0.779 seconds
+		Global illumination init time: 	0.009 seconds
+		Assemblies load time: 			2.768 seconds
+		Unity extensions init time: 	0.003 seconds
+		Asset Database refresh time: 	18.792 seconds
+	Scene opening time: 			12.353 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1788818813130,"processId":21396,"projectLoad":39.7808699,"projectInit":27.0173843,"templateInit":0.0,"packageManagerInit":0.4545115,"assetDatabaseInit":0.7789747,"globalIlluminationInit":0.00922,"assembliesLoad":2.7683985,"unityExtensionsInit":0.0032128,"assetDatabaseRefresh":18.7919978,"sceneOpening":12.3529186}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1788818813131,"processId":21396,"editorVersion":"6000.5.9f1 (b57deb96f08d)","branch":"6000.5/staging","buildType":"Release","platform":"Windows"}
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Assets/Materials/(null)Mat.mat"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorGUIUtility:RenderPlayModeViewCamerasInternal (UnityEngine.RenderTexture,int,UnityEngine.Vector2,bool,bool)
+UnityEditor.PlayModeView:RenderView (UnityEngine.Vector2,bool)
+UnityEditor.GameView:OnGUI ()
+UnityEditor.HostView:InvokeOnGUI (UnityEngine.Rect)
+UnityEditor.DockArea:DrawView (UnityEngine.Rect)
+UnityEditor.DockArea:OldOnGUI ()
+UnityEngine.UIElements.IMGUIContainer:DoOnGUI (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,bool,UnityEngine.Rect,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:DoIMGUIRepaint ()
+UnityEngine.UIElements.UIR.RenderChainCommand:ExecuteNonDrawMesh (UnityEngine.UIElements.UIR.DrawParams,single,System.Exception&)
+UnityEngine.UIElements.UIR.UIRenderDevice:EvaluateChain (UnityEngine.UIElements.UIR.RenderChainCommand,UnityEngine.Material,UnityEngine.Texture,UnityEngine.Texture,System.Nullable`1<UnityEngine.Rect>,UnityEngine.Vector2,single,bool,UnityEngine.UIElements.TextureSlotCount,bool,System.Exception&)
+UnityEngine.UIElements.UIR.RenderTreeManager:RenderSingleTree (UnityEngine.UIElements.UIR.RenderTree,UnityEngine.RenderTexture,UnityEngine.RectInt,UnityEngine.Rect)
+UnityEngine.UIElements.UIR.RenderTreeManager:RenderRootTree ()
+UnityEngine.UIElements.UIRRepaintUpdater:Render ()
+UnityEngine.UIElements.BaseVisualElementPanel:Render ()
+UnityEngine.UIElements.Panel:Render ()
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&)
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 9] before 2019.1 are deprecated. Open and re-save the file: "Assets/FoodAssets/Dish&Tray/DishWood/Materials/DishWood_D.mat"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorGUIUtility:RenderPlayModeViewCamerasInternal (UnityEngine.RenderTexture,int,UnityEngine.Vector2,bool,bool)
+UnityEditor.PlayModeView:RenderView (UnityEngine.Vector2,bool)
+UnityEditor.GameView:OnGUI ()
+UnityEditor.HostView:InvokeOnGUI (UnityEngine.Rect)
+UnityEditor.DockArea:DrawView (UnityEngine.Rect)
+UnityEditor.DockArea:OldOnGUI ()
+UnityEngine.UIElements.IMGUIContainer:DoOnGUI (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,bool,UnityEngine.Rect,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:DoIMGUIRepaint ()
+UnityEngine.UIElements.UIR.RenderChainCommand:ExecuteNonDrawMesh (UnityEngine.UIElements.UIR.DrawParams,single,System.Exception&)
+UnityEngine.UIElements.UIR.UIRenderDevice:EvaluateChain (UnityEngine.UIElements.UIR.RenderChainCommand,UnityEngine.Material,UnityEngine.Texture,UnityEngine.Texture,System.Nullable`1<UnityEngine.Rect>,UnityEngine.Vector2,single,bool,UnityEngine.UIElements.TextureSlotCount,bool,System.Exception&)
+UnityEngine.UIElements.UIR.RenderTreeManager:RenderSingleTree (UnityEngine.UIElements.UIR.RenderTree,UnityEngine.RenderTexture,UnityEngine.RectInt,UnityEngine.Rect)
+UnityEngine.UIElements.UIR.RenderTreeManager:RenderRootTree ()
+UnityEngine.UIElements.UIRRepaintUpdater:Render ()
+UnityEngine.UIElements.BaseVisualElementPanel:Render ()
+UnityEngine.UIElements.Panel:Render ()
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&)
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/InputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TagManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/AudioManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TimeManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/DynamicsManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/QualitySettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorBuildSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/NavMeshAreas.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/Physics2DSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/GraphicsSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/UnityConnectSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/ClusterInputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/MonoManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/InspectorExpandedItems.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/AnnotationManager"
+Asset Pipeline Refresh (id=e1b34de21d964f345ae1d460a5df6a69): Total: 0.066 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[MODES] ModeService[default].LoadModes
+Dynamic Batching is deprecated and will be removed in a future release. Use GPU Instancing instead. Disable Dynamic Batching in Project Settings > Player > Other Settings to remove this warning.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+UnityEditor.PlayerSettingsBatchingWarning:WarnIfDynamicBatchingEnabled ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+Created GICache directory at C:/Users/ajith/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.091s, timestamps: [41.590 - 41.682]
+[00:00:06] Precompute started.
+[BakePipeline::Driver] Extracted OOTS snapshot with 0 instances, 0 geometries, 0 meshes, 0 materials, 0 lights, 0 cookies in 12.26ms.
+[BakePipeline::Driver] Transformed OOTS snapshot into LightBaker scene input (000001EBD07D4100) in 3.53ms. Size: 1.50MB.
+[BakePipeline::PreprocessStage] Background thread started.
+[PathTracer] Finished packing lightmaps in 0.000322 seconds.
+[00:00:06] Builtin Sky manager started.
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[00:00:07] Finished 1 Layout Systems job (0.25s execute, 0.00s integrate, 0.48s wallclock)
+[00:00:07] Finished 1 Bake Ambient Probe job (0.04s execute, 0.00s integrate, 0.40s wallclock)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "skUdxPGx"... (expires: 2026-09-07T23:36:03Z)
+[00:00:07] Finished 1 Tetrahedralize Probes job (0.00s execute, 0.00s integrate, 0.65s wallclock)
+[00:00:07] Precompute took 1.131877 seconds.
+Enlighten scene contents:   0 geometries.   0 instances.   0 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+[BakePipeline::BakeStage] Background thread started. Calling LightBaker.
+[BakePipeline::BakeStage] LightBaker bake took 0.00ms and succeeded.
+[BakePipeline::PostProcessStage] Started.
+[BakePipeline::Run] Completed succesfully.
+Starting cubemap convolution for '' (size 128)
+...took 0.433 seconds
+Android Extension - Scanning For ADB Devices 4928 ms
+[Licensing::Client] Successfully resolved entitlement details
+Android Extension - Scanning For ADB Devices 1223 ms
+Attempted to call .Dispose on an already disposed CancellationTokenSource
+Android Extension - Scanning For ADB Devices 825 ms
+Android Extension - Scanning For ADB Devices 765 ms
+[00:00:19] LightingDataAsset started.
+Asset Pipeline Refresh (id=6a48f3c7fc9513242989c3e72ef59ab4): Total: 0.005 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Asset Pipeline Refresh (id=bff81a8877316584a8ee8a16efddb97f): Total: 0.001 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/InputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TagManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/AudioManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TimeManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/DynamicsManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/QualitySettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorBuildSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/NavMeshAreas.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/Physics2DSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/GraphicsSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/UnityConnectSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/ClusterInputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/MonoManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/InspectorExpandedItems.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/AnnotationManager"
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforia' (found at 'Assets/Plugins/WSA/x64/Vuforia.dll' and 'Assets/Plugins/WSA/x86/Vuforia.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll' and 'Assets/Plugins/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Refreshing native plugins compatible for Editor in 6.10 ms, found 2 plugins.
+Asset Pipeline Refresh (id=494bb3aad8bb37848a8c5ba51985b61b): Total: 0.075 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/InputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TagManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/AudioManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TimeManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/DynamicsManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/QualitySettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorBuildSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/NavMeshAreas.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/Physics2DSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/GraphicsSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/UnityConnectSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/ClusterInputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/MonoManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/InspectorExpandedItems.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/AnnotationManager"
+Importing 'GUID: 46890b56bf952bf47939626e163b3a99 - Path: Assets/MenuDemo/ReflectionProbe-0.exr' with importer (TextureImporter)
+Imported 'GUID: 46890b56bf952bf47939626e163b3a99' -> (Import Result ID: 'dfbdea4b3c64b89698ba325bd3e8a982') in 0.027 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7e8ba89d887a7a106a296669ef657203 DependenciesID=42c3ad6a287692272e1b58d7e5d2da42 StaticDependenciesID=50de6e8d6e76d8221c2d3807ea44a15a 
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforia' (found at 'Assets/Plugins/WSA/x64/Vuforia.dll' and 'Assets/Plugins/WSA/x86/Vuforia.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll' and 'Assets/Plugins/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Refreshing native plugins compatible for Editor in 5.70 ms, found 2 plugins.
+Asset Pipeline Refresh (id=7cb52957713d11d458d9b9ee0dd2b178): Total: 0.076 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/InputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TagManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/AudioManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TimeManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/DynamicsManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/QualitySettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorBuildSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/NavMeshAreas.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/Physics2DSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/GraphicsSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/UnityConnectSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/ClusterInputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/MonoManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/InspectorExpandedItems.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/AnnotationManager"
+Importing 'GUID: 46890b56bf952bf47939626e163b3a99 - Path: Assets/MenuDemo/ReflectionProbe-0.exr' with importer (TextureImporter)
+Starting cubemap convolution for '' (size 128)
+...took 0.323 seconds
+Imported 'GUID: 46890b56bf952bf47939626e163b3a99' -> (Import Result ID: '6b76c7f27f47edcfac8781285b81f545') in 3.868 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=145d261a495c2d11c340021dc0bc1c19 DependenciesID=0bb81db7fa7d758f357cb37827c39476 StaticDependenciesID=b29be691b8fd77bd32a17ea33e3c37d4 
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforia' (found at 'Assets/Plugins/WSA/x64/Vuforia.dll' and 'Assets/Plugins/WSA/x86/Vuforia.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll' and 'Assets/Plugins/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Refreshing native plugins compatible for Editor in 11.88 ms, found 2 plugins.
+
+Asset Pipeline Refresh (id=ee29f01d7b8445a45b04aad6c7060a6b): Total: 3.917 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=1 (actual=1, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=3899 ms
+		Asset DB Callback time: managed=1 ms, native=15 ms
+		Scripting: domain reloads=0, domain reload time=0 ms, compile time=0 ms, other=0 ms
+		Project Asset Count: scripts=216, non-scripts=308
+		Asset File Changes: new=0, changed=2, moved=0, deleted=0
+		Scan Filter Count: 3
+	ApplyChangesToAssetFolders: 0.163ms
+	Scan: 18.674ms
+	Collect global state as custom dependencies: 0.924ms
+	OnSourceAssetsModified: 0.114ms
+	CategorizeAssets: 0.623ms
+	ImportOutOfDateAssets: 3875.932ms (1.109ms without children)
+		ImportManagerImport: 3870.097ms (0.258ms without children)
+			UpdateCategorizedAssets: 0.065ms
+		UnloadImportedAssets: 0.366ms
+		ReloadImportedAssets: 0.584ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.070ms
+		ImportSchedulerStart: 4.269ms
+	PostProcessAllAssets: 3.783ms
+		XRBuildSystem.XRAssetImported 2.749ms
+		MonoPostProcessAllAssets: 0.620ms
+			AssetPostprocessor.OnPostprocessAllAssets 0.102ms
+			AssetChangedListener.OnPostprocessAllAssets 0.102ms
+			SyncVS.PostprocessSyncProject 0.061ms
+	PostAssetChangesProfiler: 13.199ms
+	UnloadStreamsBegin: 0.060ms
+	PersistCurrentRevisions: 0.149ms
+	Untracked: 3.550ms
+
+> Collecting Enlighten data
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/InputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TagManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/AudioManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TimeManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/DynamicsManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/QualitySettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorBuildSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/NavMeshAreas.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/Physics2DSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/GraphicsSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/UnityConnectSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/ClusterInputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/MonoManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/InspectorExpandedItems.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/AnnotationManager"
+Importing 'GUID: 0d8e60afdb87a3b42a7c9d0fb23319ea - Path: Assets/MenuDemo/LightingData.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 0d8e60afdb87a3b42a7c9d0fb23319ea' -> (Import Result ID: 'e21e37b5d1a712bfcf33e5b49b4c54ef') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=04ec1ecc2a2b3bc7cf72c52dc026384e DependenciesID=708866cb7a11c412a53b2c1f86395abb StaticDependenciesID=9c5652cdd086ba7262107763061e04eb 
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforia' (found at 'Assets/Plugins/WSA/x64/Vuforia.dll' and 'Assets/Plugins/WSA/x86/Vuforia.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll' and 'Assets/Plugins/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+Refreshing native plugins compatible for Editor in 12.72 ms, found 2 plugins.
+Asset Pipeline Refresh (id=baf627f947745984b9a9b445669ead74): Total: 0.053 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/InputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TagManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/AudioManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TimeManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/DynamicsManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/QualitySettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorBuildSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/NavMeshAreas.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/Physics2DSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/GraphicsSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/UnityConnectSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/ClusterInputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/MonoManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/InspectorExpandedItems.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/AnnotationManager"
+Asset Pipeline Refresh (id=c148cd168d84c8f41b9a1bda071d3ec8): Total: 0.032 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: 0d8e60afdb87a3b42a7c9d0fb23319ea - Path: Assets/MenuDemo/LightingData.asset - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '36675939174900a02237ad09fc33087f') in 1.9505986 seconds
+Serialized files [version 9] before 2019.1 are deprecated. Open and re-save the file: "Assets/Smoke/Smoke.mat"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.Handles:Internal_DrawCameraWithGrid (UnityEngine.Camera,UnityEditor.DrawCameraMode,UnityEditor.DrawGridParameters&,bool,bool)
+UnityEditor.Handles:DrawCameraImpl (UnityEngine.Rect,UnityEngine.Camera,UnityEditor.DrawCameraMode,bool,UnityEditor.DrawGridParameters,bool,bool,bool,UnityEngine.GameObject[])
+UnityEditor.Handles:DrawCameraStep1 (UnityEngine.Rect,UnityEngine.Camera,UnityEditor.DrawCameraMode,UnityEditor.DrawGridParameters,bool,bool)
+UnityEditor.SceneView:DoDrawCamera (UnityEngine.Rect,UnityEngine.Rect,bool&)
+UnityEditor.SceneView:DoOnGUI ()
+UnityEditor.SceneView:OnSceneGUI ()
+UnityEngine.UIElements.IMGUIContainer:DoOnGUI (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,bool,UnityEngine.Rect,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:DoIMGUIRepaint ()
+UnityEngine.UIElements.UIR.RenderChainCommand:ExecuteNonDrawMesh (UnityEngine.UIElements.UIR.DrawParams,single,System.Exception&)
+UnityEngine.UIElements.UIR.UIRenderDevice:EvaluateChain (UnityEngine.UIElements.UIR.RenderChainCommand,UnityEngine.Material,UnityEngine.Texture,UnityEngine.Texture,System.Nullable`1<UnityEngine.Rect>,UnityEngine.Vector2,single,bool,UnityEngine.UIElements.TextureSlotCount,bool,System.Exception&)
+UnityEngine.UIElements.UIR.RenderTreeManager:RenderSingleTree (UnityEngine.UIElements.UIR.RenderTree,UnityEngine.RenderTexture,UnityEngine.RectInt,UnityEngine.Rect)
+UnityEngine.UIElements.UIR.RenderTreeManager:RenderRootTree ()
+UnityEngine.UIElements.UIRRepaintUpdater:Render ()
+UnityEngine.UIElements.BaseVisualElementPanel:Render ()
+UnityEngine.UIElements.Panel:Render ()
+UnityEditor.UIElements.EditorEventDispatchUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.Event)
+UnityEditor.UIElements.DefaultWindowBackend:ProcessEvent (UnityEngine.Event)
+UnityEditor.GUIView:ProcessEvent (UnityEngine.EntityId,intptr,bool&)
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.35 seconds
+TrimDiskCacheJob: Current cache size 179mb
+Asset Pipeline Refresh (id=5cf26988af66b0b41ba3c59b9671ff52): Total: 0.015 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Loaded scene 'Library/Unused/1863acdd5e9d8624582a9f5d76cf695f'
+	Deserialize:            2.991 ms
+	Integration:            0.590 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.063 ms
+	Total Operation Time:   3.647 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 54 unused Assets / (93.3 KB). Loaded Objects now: 2123.
+Memory consumption went from 403.0 MB to 402.9 MB.
+Total: 20.676100 ms (FindLiveObjects: 0.266500 ms CreateObjectMapping: 0.045100 ms MarkObjects: 19.879300 ms  DeleteObjects: 0.482600 ms)
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Assets/Resources/VuforiaConfiguration.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.AssetDatabase:LoadAssetAtPath (string,System.Type)
+Vuforia.EditorClasses.VuforiaAbstractConfigurationEditor:LoadConfigurationObject ()
+Vuforia.EditorClasses.VuforiaBehaviourEditor:OnInspectorGUI ()
+UnityEditor.UIElements.InspectorElement/<>c__DisplayClass85_0:<CreateInspectorElementUsingIMGUI>b__2 ()
+UnityEngine.UIElements.IMGUIContainer:DoOnGUI (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,bool,UnityEngine.Rect,System.Action,bool)
+UnityEngine.UIElements.IMGUIContainer:DoMeasure (single,UnityEngine.UIElements.VisualElement/MeasureMode,single,UnityEngine.UIElements.VisualElement/MeasureMode)
+UnityEngine.UIElements.VisualElement:Measure (UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.Layout.LayoutNode&,single,UnityEngine.UIElements.Layout.LayoutMeasureMode,single,UnityEngine.UIElements.Layout.LayoutMeasureMode,UnityEngine.UIElements.Layout.LayoutSize&)
+UnityEngine.UIElements.Layout.LayoutDelegates:InvokeMeasureFunction (UnityEngine.UIElements.Layout.LayoutNode&,single,UnityEngine.UIElements.Layout.LayoutMeasureMode,single,UnityEngine.UIElements.Layout.LayoutMeasureMode,intptr&,UnityEngine.UIElements.Layout.LayoutSize&)
+UnityEngine.UIElements.Layout.LayoutProcessorNative:UnityEngine.UIElements.Layout.ILayoutProcessor.CalculateLayout (UnityEngine.UIElements.Layout.LayoutNode,single,single,UnityEngine.UIElements.Layout.LayoutDirection)
+UnityEngine.UIElements.Layout.LayoutProcessor:CalculateLayout (UnityEngine.UIElements.Layout.LayoutNode,single,single,UnityEngine.UIElements.Layout.LayoutDirection)
+UnityEngine.UIElements.Layout.LayoutNode:CalculateLayout (single,single)
+UnityEngine.UIElements.VisualTreeLayoutUpdater:Update ()
+UnityEngine.UIElements.VisualTreeUpdater:UpdateVisualTreePhase (UnityEngine.UIElements.VisualTreeUpdatePhase)
+UnityEngine.UIElements.Panel:UpdateWithoutRepaint ()
+UnityEditor.EditorElementUpdater:CreateInspectorElementsForViewport (UnityEngine.UIElements.ScrollView,UnityEngine.UIElements.VisualElement)
+UnityEditor.PropertyEditor:RebuildContentsContainers ()
+UnityEditor.InspectorWindow:RedrawFromNative ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/InputManager.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TagManager.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/AudioManager.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TimeManager.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/DynamicsManager.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/QualitySettings.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorBuildSettings.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorSettings.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/NavMeshAreas.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/Physics2DSettings.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/GraphicsSettings.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/UnityConnectSettings.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/ClusterInputManager.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/MonoManager.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/InspectorExpandedItems.asset"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/AnnotationManager"
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Runtime\Serialize\SerializedFile.cpp line 835]
+
+Importing 'GUID: bf30d577eead1ef40bcf2b404289daf4 - Path: Assets/Vuforia/Prefabs/ARCamera.prefab' with importer (PrefabImporter)
+Imported 'GUID: bf30d577eead1ef40bcf2b404289daf4' -> (Import Result ID: 'bc770e3d802cebf3b836c59f889a5aa7') in 0.007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=158205de60111b8c3071b434a091d28d DependenciesID=f13bab668564f62435544e46107198d5 StaticDependenciesID=49bbff79b63a25fd2349018168eac27b 
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Editor\Src\AssetPipeline\PluginManager.cpp line 241]
+
+Multiple plugins with the same name 'vuforia' (found at 'Assets/Plugins/WSA/x64/Vuforia.dll' and 'Assets/Plugins/WSA/x86/Vuforia.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Editor\Src\AssetPipeline\PluginManager.cpp line 241]
+
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x64/VuforiaWrapper.dll' and 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Editor\Src\AssetPipeline\PluginManager.cpp line 241]
+
+Multiple plugins with the same name 'vuforiawrapper' (found at 'Assets/Plugins/WSA/x86/VuforiaWrapper.dll' and 'Assets/Plugins/x86/VuforiaWrapper.dll'). That means one or more plugins are set to be compatible with Editor. Only one plugin at the time can be used by Editor.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.PrefabUtility:SaveAsPrefabAsset_Internal (UnityEngine.GameObject,string,bool&)
+UnityEditor.PrefabUtility:SaveAsPrefabAsset (UnityEngine.GameObject,string,bool&)
+UnityEditor.SceneManagement.PrefabStage:SavePrefab ()
+UnityEditor.SceneManagement.PrefabStage:Save ()
+UnityEditor.SceneManagement.PrefabStage:AutoSave ()
+UnityEditor.SceneManagement.PrefabStage:HandleAutoSave ()
+UnityEditor.SceneManagement.PrefabStage:Tick ()
+UnityEditor.SceneManagement.StageNavigationManager:ValidateAndTickStages (bool)
+UnityEditor.SceneManagement.StageNavigationManager:Update ()
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+[C:\build\output\unity\unity\Editor\Src\AssetPipeline\PluginManager.cpp line 241]
+
+Refreshing native plugins compatible for Editor in 7.61 ms, found 2 plugins.
+Asset Pipeline Refresh (id=60b8356b70a088f408dc51ca4b51d857): Total: 0.087 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[Worker0] Imported GUID: bf30d577eead1ef40bcf2b404289daf4 - Path: Assets/Vuforia/Prefabs/ARCamera.prefab - Importer: ScriptedImporter/UnityEditor.QuickSearchModule:UnityEditor.Search:ASIAI0B -> (ImportResultId: '608a84acc88a15df3c77d94451fa9906') in 0.2232006 seconds
+[Worker0] Imported GUID: 2e1fa6b40b3c5c144b81efe8209ab4f4 - Path: Assets/Tree.prefab - Importer: PreviewImporter -> (ImportResultId: 'b2d2ee7a88b92b398b01fbb2fff89c11') in 2.5387113 seconds
+[Worker0] Imported GUID: f6c23840c2b98ca48ac7d9bd78b06c2a - Path: Assets/Tree 1.prefab - Importer: PreviewImporter -> (ImportResultId: 'fc61f6a7cc8504d19964aef8007e02f9') in 3.121594 seconds
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/InputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TagManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/AudioManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/TimeManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/DynamicsManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/QualitySettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorBuildSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/EditorSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/NavMeshAreas.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/Physics2DSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/GraphicsSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/UnityConnectSettings.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "ProjectSettings/ClusterInputManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/MonoManager.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/InspectorExpandedItems.asset"
+Serialized files [version 17] before 2019.1 are deprecated. Open and re-save the file: "Library/AnnotationManager"
+Asset Pipeline Refresh (id=be06d169fa30bc943b71f550a868a12e): Total: 0.043 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=ad1490cb7640a474c89fd092ae34a50d): Total: 0.008 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+[Worker0] Imported GUID: b2f9e7270b4b2b741890737637be63c6 - Path: Assets/FoodAssets - Importer: PreviewImporter -> (ImportResultId: '4cff3b94e1266e7645041d7c76b86e2b') in 0.0025716 seconds
+Asset Pipeline Refresh (id=f0e75539386c4dd4e977822e2c04fa36): Total: 0.060 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=86f9f8b4a230b9f4ca83175da0eaeb68): Total: 0.014 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Asset Pipeline Refresh (id=c4af6bde0e9b7964f8bb34807a9a9ea5): Total: 0.047 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+MonoPathRemapper: Attempts to remap: 14395; Successful remaps: 364
+Serialized file version minimum: 9, current 23
+[LAYOUT] About to save layout C:\Users\ajith\Desktop\AR-Menu3D-main\ARMenuUnity\arMenu\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/ajith/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+Killing ADB server in 0.1780002 seconds.
+Unloading 17 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 93 unused Assets / (17.2 MB). Loaded Objects now: 2159.
+Memory consumption went from 422.9 MB to 405.7 MB.
+Total: 409.181100 ms (FindLiveObjects: 13.390500 ms CreateObjectMapping: 0.063400 ms MarkObjects: 263.251900 ms  DeleteObjects: 132.467300 ms)
+
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+[Licensing::IpcConnector] LicenseClient-ajith-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-ajith channel disconnected successfully.
+Lingering sessions upon destruction of worker manager
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1788820758901,"processId":21396,"allocatedMemory":46913241,"memoryLabels":[{"Default":225928},{"Permanent":15516},{"NewDelete":67997},{"Thread":4197560},{"Manager":30099},{"VertexData":8},{"Geometry":816},{"Texture":24},{"Shader":847122},{"Material":24},{"GfxDevice":55328},{"Animation":952},{"Audio":968},{"FreeType":8},{"FontEngine":736},{"Physics":2146},{"Physics2D":16},{"Serialization":1976},{"Input":42840},{"JobScheduler":256},{"TextLib":10582},{"Mono":48},{"ScriptingNativeRuntime":782788},{"BaseObject":1622728},{"Resource":1208},{"Renderer":3080},{"Transform":4685},{"File":75309},{"WebCam":616},{"Culling":32},{"Terrain":11442},{"Wind":24},{"STL":40},{"String":10473},{"StaticString":3808},{"Utility":2672372},{"Curl":48},{"PoolAlloc":2168},{"AI":80},{"TypeTree":21101},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7816},{"Director":8296},{"CloudService":7496},{"WebRequest":4613},{"VR":47114},{"SceneManager":608},{"Video":208},{"LazyScriptCache":32},{"NativeArray":33063072},{"Camera":585},{"Secure":265},{"SerializationCache":1576},{"APIUpdating":10320},{"Subsystems":336},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":728},{"Hierarchy":1176},{"UIElements":1301696},{"CoreStats":13688},{"Identifiers":6768},{"Gui":268140},{"EditorUtility":275060},{"VersionControl":8},{"Undo":931},{"AssetDatabase":790083},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":35346},{"Upm":1988},{"UpmDiagnostics":8},{"AssetCompliance":64},{"DrivenProperties":72},{"LocalIPC":260},{"ProfilerEditor":9746},{"CoreBusinessMetrics":3480},{"Windowing":456},{"Licensing":776},{"AssetReference":32},{"IPCStream":32}]}
